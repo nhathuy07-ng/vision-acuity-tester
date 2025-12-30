@@ -415,7 +415,7 @@
         <img style="padding-left: 10px;" src="landolt_c/guide.webp" alt="">
         
         <p style="color:#cd0000"> Testing results should only be treated as references, and might not reflect your actual vision acuity. This website is optimized for use on computers.</p>
-        <p>Check out the project's GitHub repo: <a href="https://github.com/nhathuy07/vision-acuity-tester">https://github.com/nhathuy07/vision-acuity-tester</a></p>
+        <p>Check out the project's GitHub repo: <a href="https://github.com/nhathuy07-ng/vision-acuity-tester">https://github.com/nhathuy07-ng/vision-acuity-tester</a></p>
     </div>
 
     <video id="videoOut" autoplay style="padding: 15px; transform: scale(-1, 1); border-radius: 15px;">
